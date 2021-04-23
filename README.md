@@ -31,5 +31,5 @@ The final product will require 70x the above as well as:
 - 1x Male to Male TRRS cable
 
 ## Useful links
--Development board: https://trello.com/b/AvZGNKgc/dc70-split-ortholinear-keyboard
--Discord: Not launched - watch this space
+- Development board: https://trello.com/b/AvZGNKgc/dc70-split-ortholinear-keyboard
+- Discord: Not launched - watch this space
