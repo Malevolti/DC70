@@ -33,3 +33,4 @@ The final product will require 70x the above as well as:
 ## Useful links
 - Development board: https://trello.com/b/AvZGNKgc/dc70-split-ortholinear-keyboard
 - Discord: https://discord.gg/tuZ3vczA
+- Homepage: https://dcmkeyboards.com
